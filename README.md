@@ -58,7 +58,7 @@ My name is Vinicius Fernandes and i'm a Developer FullStack, from MS, Brazil
 
 ###
 
-<h2 align="center">Stats</h2>
+<h2 align="left">Stats</h2>
 
 ###
 
