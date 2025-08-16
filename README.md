@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Vinicius Fernandes and i'm a Developer FullStack, from MS, Brazil
+My name is Vinicius Fernandes and i'm a Java Developer, from MS, Brazil
 
 <h2 align="left">About Me</h2>
 
@@ -16,7 +16,7 @@ My name is Vinicius Fernandes and i'm a Developer FullStack, from MS, Brazil
 
 ###
 
-<p align="left">Olá! Meu nome é Vinicius Fernandes, sou Desenvolvedor FullStack, apaixonado por tecnologia e atualmente em busca da minha primeira oportunidade na área de programação.<br>🎓 Aprofundando meus estudos em Java, Spring Boot, APIs REST e bancos de dados.<br>💡 Tenho interesse em estágio ou posições junior na área de desenvolvimento de software.<br>🚀 Também estudo conceitos de DevOps e Cloud (AWS) para ampliar minha visão em projetos modernos.<br>💻 Aprimorando meus conhecimentos em Angular, React e Bootstrap.</p>
+<p align="left">Olá! Meu nome é Vinicius Fernandes, sou Desenvolvedor Java, apaixonado por tecnologia e atualmente em busca da minha primeira oportunidade na área de programação.<br>🎓 Aprofundando meus estudos em Java, Spring Boot, APIs REST e bancos de dados.<br>💡 Tenho interesse em estágio ou posições junior na área de desenvolvimento de software.<br>🚀 Também estudo conceitos de DevOps e Cloud (AWS) para ampliar minha visão em projetos modernos.<br>💻 Aprimorando meus conhecimentos em Angular, React e Bootstrap.</p>
 
 ###
 
