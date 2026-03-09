@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Vinicius Fernandes and i'm a Java Developer, from MS, Brazil
+My name is Vinicius Fernandes and i'm a Developer Backend, from MS, Brazil
 
 <h2 align="left">About Me</h2>
 
